@@ -123,18 +123,8 @@ Here are some ideas to get you started:
 
 <h4>My projects</h4>
 
-<p dir="auto">
-
-   [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=annasafaryan&repo=rusnlp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/rusnlp)
-   [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=annasafaryan&repo=FindImper&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/FindImper)
-</p>
-
-<p dir="auto">
-
-   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp)](https://github.com/AnnaSafaryan/rusnlp)
-   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper)](https://github.com/AnnaSafaryan/FindImper)
-
-</p>
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/rusnlp)
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/FindImper)
 
 
 <h4>My stats</h4>
@@ -142,6 +132,7 @@ Here are some ideas to get you started:
 <p dir="auto">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annasafaryan&theme=solarized_dark)
 </p>
 
