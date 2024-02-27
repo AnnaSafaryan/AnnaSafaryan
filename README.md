@@ -50,6 +50,7 @@ Here are some ideas to get you started:
                     <a href="https://www.hse.ru/staff/anna_safaryan/"><img src="img/social/hse.png"></a>
                     <a href="https://nn.hh.ru/resume/ce99b07bff0b7d81cf0039ed1f73473944436e"><img src="img/social/hh.png"></a>
                     <a href="https://github.com/AnnaSafaryan"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+                    <a href="https://career.habr.com/anna_safaryan"><img src="https://img.shields.io/badge/Habr-65A3BE.svg?style=for-the-badge&logo=Habr&logoColor=white"></a>    
                 </td>
             </tr>
         </tbody>
