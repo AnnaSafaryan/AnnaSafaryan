@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 
 <h4>My projects</h4>
 
-   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/rusnlp)
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=transparent&text_color=82AAFF&title_color=82AAFF&icon_color=82AAFF)](https://github.com/AnnaSafaryan/rusnlp)
    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/FindImper)
 
 
