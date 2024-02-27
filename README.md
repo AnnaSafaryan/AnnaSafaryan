@@ -143,8 +143,8 @@ Here are some ideas to get you started:
 [//]: # (   [![Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=transparent&text_color=fff&title_color=fff&icon_color=fff#gh-dark-mode-only&#41;]&#40;https://github.com/AnnaSafaryan/rusnlp&#41;)
 [//]: # (   [![Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F#gh-dark-mode-only&#41;]&#40;https://github.com/AnnaSafaryan/FindImper&#41;)
    
-   [![Light_rusnlp](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=default&bg_color=00000000&text_color=000000&title_color=58A6FF&icon_color=58A6FF#gh-light-mode-only)](https://github.com/AnnaSafaryan/rusnlp#gh-light-mode-only)
-   [![Light_findimper](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=default&bg_color=00000000&text_color=000000&title_color=58A6FF&icon_color=58A6FF#gh-light-mode-only)](https://github.com/AnnaSafaryan/FindImper#gh-light-mode-only)
+   [![Light_rusnlp](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=default&bg_color=00000000&text_color=000000&title_color=006AFF&icon_color=006AFF#gh-light-mode-only)](https://github.com/AnnaSafaryan/rusnlp#gh-light-mode-only)
+   [![Light_findimper](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=default&bg_color=00000000&text_color=000000&title_color=006AFF&icon_color=006AFF#gh-light-mode-only)](https://github.com/AnnaSafaryan/FindImper#gh-light-mode-only)
    
 [//]: # (   [![Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=rusnlp&theme=transparent&text_color=000000&title_color=000000&icon_color=000000#gh-light-mode-only&#41;]&#40;https://github.com/AnnaSafaryan/rusnlp&#41;)
 [//]: # (   [![Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=82AAFF&title_color=82AAFF&icon_color=82AAFF#gh-light-mode-only&#41;]&#40;https://github.com/AnnaSafaryan/FindImper&#41;)
