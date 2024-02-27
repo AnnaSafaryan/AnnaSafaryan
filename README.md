@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anna!</h1>
+<h1 align="center">Hi there! I'm Anna,</h1>
 <h3 align="center">an NLP Engineer from Nizhny Novgorod, Russia</h3>
 
 <!--
@@ -62,6 +62,9 @@ Here are some ideas to get you started:
     <li>
         A greater pleasure than teaching myself is to teach others
     </li>
+    <li>
+        I will be happy to take part in your project or bring your idea to life
+    </li>
 
 </ul>
 
@@ -69,7 +72,7 @@ Here are some ideas to get you started:
 
 <ul>
    <li>
-   natural languages:
+   Natural Languages:
 
    ![ru](img/lang/ru.png)
    ![en](img/lang/en.png)
@@ -78,7 +81,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-   programming & markup languages:
+   Programming & Markup Languages:
 
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -88,7 +91,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-   data science + machine/deep learning:
+   Data Science + Machine/Deep Learning:
 
    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -99,7 +102,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-   web design + backend:
+   Web Design + Backend:
 
    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -112,7 +115,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-   environments:
+   Environments:
 
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
