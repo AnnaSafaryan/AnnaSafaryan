@@ -167,7 +167,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-      <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf" style="color: 58A6FF>
+      <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf" style="color: 58A6FF">
       Автоматизация процесса поиска побуждений и извлечения их из текста
       </a>
       <br>
