@@ -140,44 +140,36 @@ Here are some ideas to get you started:
    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/FindImper)
 
 
-<h4>My Papers</h4>
+<h4>My papers</h4>
 
 <ul>
    <li>
-   <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3"
-      title="<code>
-         @inproceedings{safaryan2021,
-         <br>title={Semantic Recommendation System for Bilingual Corpus of Academic Papers},
-         <br>author={Safaryan, Anna and Filchenkov, Petr and Yan, Weijia and Kutuzov, Andrey and Nikishina, Irina},
-         <br>booktitle={International Conference on Analysis of Images, Social Networks and Texts},
-         <br>pages={22--36},
-         <br>year={2021},
-         <br>organization={Springer}
-         <br>} 
-       </code>"
->
-Semantic Recommendation System for Bilingual Corpus of Academic Papers
-</a>
-      <br>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3">
+      Semantic Recommendation System for Bilingual Corpus of Academic Papers
+      </a>
+      <br>@inproceedings{safaryan2021,
+      <br>title={Semantic Recommendation System for Bilingual Corpus of Academic Papers},
+      <br>author={Safaryan, Anna and Filchenkov, Petr and Yan, Weijia and Kutuzov, Andrey and Nikishina, Irina},
+      <br>booktitle={International Conference on Analysis of Images, Social Networks and Texts},
+      <br>pages={22--36},
+      <br>year={2021},
+      <br>organization={Springer}
+      <br>}
    </li>
 
    <li>
-   <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf">Автоматизация процесса поиска побуждений и извлечения их из текста</a>
+      <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf">
+      Автоматизация процесса поиска побуждений и извлечения их из текста
+      </a>
       <br>
-      <code>
-         @inproceedings{belova2023,
-         <br>title={Автоматизация процесса поиска побуждений и извлечения их из текста},
-         <br>author={Белова, Полина and Сафарян, Анна},
-         <br>booktitle={Современный медиатекст и судебная экспертиза: 
-междисциплинарные связи и экспертная оценка: сборник научных работ по итогам 
-Международной научно-практической конференции 
-«Современный медиатекст и судебная экспертиза: междисциплинарные связи и экспертная оценка»},
-         <br>pages={46--56},
-         <br>year={2023},
-         <br>organization={ООО «СОЮЗКНИГ»}
-         <br>} 
-       </code>
-   </li>
+      Белова П. Е., Сафарян А. К. 
+      Автоматизация процесса поиска побуждений и извлечения их из текста. // 
+      В кн.: Современный медиатекст и судебная экспертиза: 
+      междисциплинарные связи и экспертная оценка: сборник научных работ по итогам 
+      Международной научно-практической конференции «Современный медиатекст и судебная экспертиза: 
+      междисциплинарные связи и экспертная оценка» / 
+      Под общ. ред.: П. А. Катышев, Огорелков И. В.. М. : ООО «СОЮЗКНИГ», 2023. С. 46-56.
+</li>
 </ul>
 
 
