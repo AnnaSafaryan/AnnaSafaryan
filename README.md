@@ -22,7 +22,7 @@ Here are some ideas to get you started:
             <tr>
                 <td>Social</td>
                 <td>Mail & Message</td>
-                <td>Science</td>
+                <td>Publications</td>
                 <td>More</td>
             </tr>
         </thead>
@@ -41,16 +41,16 @@ Here are some ideas to get you started:
                     <a href="mailto:anna.safaryan-813@yandex.ru"><img src="img/social/ya_mail.png"></a>
                 </td>
                 <td>
+                   <a href="https://scholar.google.com/citations?user=cJEmZ2sAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"></a>
+                   <a href="https://orcid.org/0000-0002-3063-3955"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white"></a>
+                   <a href="https://www.webofscience.com/wos/author/record/49229718"><img src="https://img.shields.io/badge/Clarivate-93FF9E.svg?style=for-the-badge&logo=Clarivate&logoColor=black"></a>
+                   <a href="https://elibrary.ru/author_profile.asp?authorid=1216442"><img src="img/social/elibrary.png"></a>
+                </td>
+                <td>
                     <a href="https://www.hse.ru/staff/anna_safaryan/"><img src="img/social/hse.png"></a>
                     <a href="https://nn.hh.ru/resume/ce99b07bff0b7d81cf0039ed1f73473944436e"><img src="img/social/hh.png"></a>
                     <a href="https://github.com/AnnaSafaryan"><img src="img/social/github.png"></a>
                 </td>
-                <td>
-                    <a href="https://scholar.google.com/citations?user=cJEmZ2sAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"></a>
-                   <a href="https://orcid.org/0000-0002-3063-3955"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white"></a>
-                   <a href="https://www.webofscience.com/wos/author/record/49229718"><img src="https://img.shields.io/badge/Clarivate-93FF9E.svg?style=for-the-badge&logo=Clarivate&logoColor=black"></a>
-                </td>
-                            
             </tr>
         </tbody>
 </table>
@@ -140,12 +140,49 @@ Here are some ideas to get you started:
    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=annasafaryan&repo=FindImper&theme=transparent&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/AnnaSafaryan/FindImper)
 
 
+<h4>My Papers</h4>
+
+<ul>
+   <li>
+   <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3">Semantic Recommendation System for Bilingual Corpus of Academic Papers</a>
+      <br>
+      <code title="kjbl">
+         @inproceedings{safaryan2021,
+         <br>title={Semantic Recommendation System for Bilingual Corpus of Academic Papers},
+         <br>author={Safaryan, Anna and Filchenkov, Petr and Yan, Weijia and Kutuzov, Andrey and Nikishina, Irina},
+         <br>booktitle={International Conference on Analysis of Images, Social Networks and Texts},
+         <br>pages={22--36},
+         <br>year={2021},
+         <br>organization={Springer}
+         <br>} 
+       </code>
+   </li>
+
+   <li>
+   <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf">Автоматизация процесса поиска побуждений и извлечения их из текста</a>
+      <br>
+      <code>
+         @inproceedings{belova2023,
+         <br>title={Автоматизация процесса поиска побуждений и извлечения их из текста},
+         <br>author={Белова, Полина and Сафарян, Анна},
+         <br>booktitle={Современный медиатекст и судебная экспертиза: 
+междисциплинарные связи и экспертная оценка: сборник научных работ по итогам 
+Международной научно-практической конференции 
+«Современный медиатекст и судебная экспертиза: междисциплинарные связи и экспертная оценка»},
+         <br>pages={46--56},
+         <br>year={2023},
+         <br>organization={ООО «СОЮЗКНИГ»}
+         <br>} 
+       </code>
+   </li>
+</ul>
+
+
 <h4>My stats</h4>
 
 <p dir="auto">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0&count_weight=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annasafaryan&theme=solarized_dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0&count_weight=1)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasafaryan&layout=compact&&size_weight=0.5&count_weight=0.5)
+   ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annasafaryan&theme=solarized_dark)
 </p>
-
