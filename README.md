@@ -22,6 +22,7 @@ Here are some ideas to get you started:
             <tr>
                 <td>Social</td>
                 <td>Mail & Message</td>
+                <td>Science</td>
                 <td>More</td>
             </tr>
         </thead>
@@ -44,6 +45,12 @@ Here are some ideas to get you started:
                     <a href="https://nn.hh.ru/resume/ce99b07bff0b7d81cf0039ed1f73473944436e"><img src="img/social/hh.png"></a>
                     <a href="https://github.com/AnnaSafaryan"><img src="img/social/github.png"></a>
                 </td>
+                <td>
+                    <a href="https://scholar.google.com/citations?user=cJEmZ2sAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"></a>
+                   <a href="https://orcid.org/0000-0002-3063-3955"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white"></a>
+                   <a href="https://www.webofscience.com/wos/author/record/49229718"><img src="https://img.shields.io/badge/Clarivate-93FF9E.svg?style=for-the-badge&logo=Clarivate&logoColor=black"></a>
+                </td>
+                            
             </tr>
         </tbody>
 </table>
