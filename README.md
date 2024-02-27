@@ -144,9 +144,8 @@ Here are some ideas to get you started:
 
 <ul>
    <li>
-   <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3">Semantic Recommendation System for Bilingual Corpus of Academic Papers</a>
-      <br>
-      <code title="kjbl">
+   <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3"
+      title="<code>
          @inproceedings{safaryan2021,
          <br>title={Semantic Recommendation System for Bilingual Corpus of Academic Papers},
          <br>author={Safaryan, Anna and Filchenkov, Petr and Yan, Weijia and Kutuzov, Andrey and Nikishina, Irina},
@@ -155,7 +154,11 @@ Here are some ideas to get you started:
          <br>year={2021},
          <br>organization={Springer}
          <br>} 
-       </code>
+       </code>"
+>
+Semantic Recommendation System for Bilingual Corpus of Academic Papers
+</a>
+      <br>
    </li>
 
    <li>
