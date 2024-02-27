@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 
 <ul>
    <li>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-71214-3_3" style="color: 58A6FF">
       Semantic Recommendation System for Bilingual Corpus of Academic Papers
       </a>
       <br>@inproceedings{safaryan2021,
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
    </li>
 
    <li>
-      <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf">
+      <a href="https://phil.rudn.ru/dokumenti/Sbornik.pdf" style="color: 58A6FF>
       Автоматизация процесса поиска побуждений и извлечения их из текста
       </a>
       <br>
